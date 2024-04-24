@@ -1,7 +1,8 @@
 # Order for iOS
 
 Order is an iOS application to order foods from restaurants. Users can view menues from various restaurants, check dish detail descriptions, order foods, modify order information, and submit orders.
-![](https://github.com/Lydia-L-Guo/Order/blob/master/Order.gif)
+
+<img src="https://github.com/Lydia-L-Guo/Order/blob/master/Order.gif" width="300">
 
 ## Features
 
